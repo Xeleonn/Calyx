@@ -1,1 +1,8 @@
 C:\dev\Calyx\Calyx\Main.cpp;C:\dev\Calyx\Calyx\x64\Debug\Main.obj
+C:\dev\Calyx\Calyx\vendor\imgui\backends\imgui_impl_dx11.cpp;C:\dev\Calyx\Calyx\x64\Debug\imgui_impl_dx11.obj
+C:\dev\Calyx\Calyx\vendor\imgui\backends\imgui_impl_win32.cpp;C:\dev\Calyx\Calyx\x64\Debug\imgui_impl_win32.obj
+C:\dev\Calyx\Calyx\vendor\imgui\imgui.cpp;C:\dev\Calyx\Calyx\x64\Debug\imgui.obj
+C:\dev\Calyx\Calyx\vendor\imgui\imgui_demo.cpp;C:\dev\Calyx\Calyx\x64\Debug\imgui_demo.obj
+C:\dev\Calyx\Calyx\vendor\imgui\imgui_draw.cpp;C:\dev\Calyx\Calyx\x64\Debug\imgui_draw.obj
+C:\dev\Calyx\Calyx\vendor\imgui\imgui_tables.cpp;C:\dev\Calyx\Calyx\x64\Debug\imgui_tables.obj
+C:\dev\Calyx\Calyx\vendor\imgui\imgui_widgets.cpp;C:\dev\Calyx\Calyx\x64\Debug\imgui_widgets.obj
