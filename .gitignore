@@ -1,0 +1,15 @@
+*.ipch
+*.vsidx
+*.sln
+*.vcxproj
+*.user
+*.filters
+.vs/
+x64/
+x64/Release/Calyx.pdb
+x64/Release/Calyx.exe
+x64/Debug/Calyx.pdb
+x64/Debug/Calyx.exe
+Calyx/Calyx.vcxproj
+Calyx/Calyx.vcxproj.filters
+Calyx/Calyx.vcxproj.user
